@@ -1,0 +1,13 @@
+[
+    {
+      "title": "Card 1",
+      "description": "This is the first card.",
+      "image": "https://loremflickr.com/320/240"
+    },
+    {
+      "title": "Card 2",
+      "description": "This is the second card.",
+      "image": "https://loremflickr.com/320/240"
+    }
+  ]
+  
